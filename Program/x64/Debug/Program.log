@@ -1,5 +1,6 @@
 ﻿  source.c
-C:\Users\Administrator\Desktop\Program\source.c(6,20): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\Administrator\Desktop\Program\source.c(31,5): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\Administrator\Desktop\Program\source.c(31,11): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  Program.vcxproj -> C:\Users\Administrator\Desktop\Program\x64\Debug\Program.exe
+C:\Users\Administrator\Desktop\Project_2\source.c(6,20): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Administrator\Desktop\Project_2\source.c(48,5): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Administrator\Desktop\Project_2\source.c(48,11): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Administrator\Desktop\Project_2\source.c(53,15): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\Administrator\Desktop\Project_2\source.c(53,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
