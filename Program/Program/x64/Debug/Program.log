@@ -1,3 +1,2 @@
 ﻿  source.c
-C:\Users\a0102\OneDrive\바탕 화면\Project_2\Program\source.c(26,10): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
   Program.vcxproj -> C:\Users\a0102\OneDrive\바탕 화면\Project_2\Program\x64\Debug\Program.exe

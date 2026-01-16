@@ -1,5 +1,24 @@
 #include <stdio.h>
-#define SIZE 1000
+#include <stdlib.h>
+
+void load(const char* fileName) {
+	FILE* file = fopen(fileName, "r");
+
+	int character ='\0';
+	int count = 0;
+
+    while ((character = fgetc(file)) != EOF) {
+        count++;
+	}
+
+    rewind(file);
+    char* buffer = malloc(count + 1);
+    buffer[count] = '\0';
+    fread(buffer, sizeof(char), count,file);
+    printf("%s", buffer);
+    fclose(file);
+	free(buffer);
+}
 
 int main()
 {
@@ -22,26 +41,14 @@ int main()
 
 #pragma region 파일 읽기
 
-    FILE* file = fopen("data.txt","r");
-    char character = NULL;
-    int count = 0;
-    while ((character = fgetc(file)) != EOF) {
-        count++;
-    }
-    printf("count : %d\n", count);
+	// load("Resources/tamama.txt");
+    // load("Resources/keroro.txt");
 
-	char buffer[SIZE] = { 0, };
-    
     // 첫 번째 매개 변수 : 읽은 데이터를 저장할 메모리 버퍼의 포인터 변수
-	// 두 번째 매개 변수 : 각 데이터 항목의 크기
-	// 세 번째 매개 변수 : 데이터를 읽어올 항목의 수
-	// 네 번째 매개 변수 : 데이터를 읽어올 파일의 포인터 변수
+    // 두 번째 매개 변수 : 각 데이터 항목의 크기
+    // 세 번째 매개 변수 : 데이터를 읽어올 항목의 수
+    // 네 번째 매개 변수 : 데이터를 읽어올 파일의 포인터 변수
 
-    fread(buffer, sizeof(char), sizeof(buffer),file);
-    printf("%s", buffer);
-	fclose(file);
-
-    
 #pragma endregion
 
 #pragma endregion
