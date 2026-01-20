@@ -78,7 +78,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-19T12:17:08.032Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -94,9 +95,9 @@
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\a0102\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Project_2\\Program\\source.c",
               "RelativeDocumentMoniker": "source.c",
-              "ToolTip": "C:\\Users\\a0102\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Project_2\\Program\\source.c*",
-              "RelativeToolTip": "source.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\a0102\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Project_2\\Program\\source.c",
+              "RelativeToolTip": "source.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-16T11:36:27.219Z",
               "EditorCaption": ""
