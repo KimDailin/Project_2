@@ -41,9 +41,10 @@
               "RelativeDocumentMoniker": "..\\..\\New-project\\Class13th (Struct)\\source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\New-project\\Class13th (Struct)\\source.c",
               "RelativeToolTip": "..\\..\\New-project\\Class13th (Struct)\\source.c",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-14T12:26:14.711Z"
+              "WhenOpened": "2026-01-14T12:26:14.711Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -55,7 +56,8 @@
               "RelativeToolTip": "..\\Class1th (Input System)\\source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-14T11:37:47.834Z"
+              "WhenOpened": "2026-01-14T11:37:47.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -67,7 +69,8 @@
               "RelativeToolTip": "..\\Class2th (Time)\\source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-01-14T12:11:26.849Z"
+              "WhenOpened": "2026-01-14T12:11:26.849Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -77,7 +80,7 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_2\\Program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAwG0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-14T11:13:46.568Z",
               "EditorCaption": ""
